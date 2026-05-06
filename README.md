@@ -1,4 +1,4 @@
-# 🍕 Oracle PIPELINED Function – Complete Demo (Single Frame)
+# 🍕 Oracle PIPELINED Function – Complete Demo
 
 This demo explains how **PIPELINED functions in Oracle** work using a simple, step-by-step approach.
 
